@@ -1,0 +1,3 @@
+rootProject.name='IBGroupTestApplication'
+include ':app'
+include ':logger'
